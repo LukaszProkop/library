@@ -1,2 +1,2 @@
-# projektySpring
-"Spring Framework 5 Beginner to Guru"
+# library
+Spring DataBase h2 with authors, books and publishers
