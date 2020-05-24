@@ -1,3 +1,3 @@
 # library
-Spring DataBase h2 with authors, books and publishers 
+(Spring) Web service containing DataBase h2 with authors, books and publishers 
 ...in progress...
